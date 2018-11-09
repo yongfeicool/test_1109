@@ -6,3 +6,6 @@
 -   Cloning a repo:
     
         git clone repo_url
+
+-Fei 
+-modify 
